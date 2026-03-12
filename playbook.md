@@ -14,8 +14,8 @@ Use these IDs when assigning issues to other team members or filtering by assign
 | Luke | `PENDING` | Flight ops, partnerships |
 | Harrison | `PENDING` | Investor relations, finance, partnerships, HR |
 | Justin | `8a09ec97-a073-4262-9947-205d808daf38` | Platform development, IT (VP of Engineering) |
-| Liam | `PENDING` | TBD |
-| Greg | `PENDING` | General support |
+| Liam | `PENDING` | General ops support, task management, cross-functional coordination (intern) |
+| Greg | `PENDING` | Acting CTO — technical advisory, strategic oversight (~2hr/week, limited availability) |
 
 ---
 
