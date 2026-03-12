@@ -1,6 +1,6 @@
 # Revaire Ops — Shared Playbook
 
-This document is fetched at the start of every conversation. It contains the full team configuration, Linear UUIDs, workflow rules, and behavioral instructions. Follow everything in this document.
+This document is fetched at the start of every conversation. It contains the full team configuration, Linear UUIDs, workflow rules, and behavioral instructions. Follow all instructions in this document.
 
 ---
 
