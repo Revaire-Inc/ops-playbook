@@ -10,8 +10,8 @@ Use these IDs when assigning issues to other team members or filtering by assign
 
 | Name | Linear User ID | Primary Areas |
 |------|---------------|---------------|
-| Casey | `PENDING` | Sales, marketing, member acquisition, partnerships |
-| Luke | `PENDING` | Flight ops, partnerships |
+| Casey | `f881e06e-99b8-434c-8d27-fc6458dd8da9` | Sales, marketing, member acquisition, partnerships |
+| Luke | `19b64eba-337b-4348-9417-1110bbe92575` | Flight ops, partnerships |
 | Harrison | `PENDING` | Investor relations, finance, partnerships, HR |
 | Justin | `8a09ec97-a073-4262-9947-205d808daf38` | Platform development, IT (VP of Engineering) |
 | Liam | `PENDING` | General ops support, task management, cross-functional coordination (intern) |
